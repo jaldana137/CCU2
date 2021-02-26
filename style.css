@@ -1,0 +1,26 @@
+    *{
+        box-sizing: border-box;
+        margin:1;
+    font-family:sans-serif;
+        font-size:18px;
+}
+header{
+        background:#fff3b0;
+    }
+    h1{
+        font-family: arial;
+        font-size: 40px;
+        color:#9a031e;
+    }
+    .navlink{
+        color:ED254E;
+        text-decoration: none;
+    }
+
+    .factlink{
+        color:deeppink;
+        text-decoration: underline overline wavy red;
+    }
+.tables{
+    background:#47E5BC;
+}
